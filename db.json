@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First",
+      "body": "yo watch it",
+      "publishedAt": "this hour 2021"
+    },
+    {
+      "id": "2",
+      "title": "Second",
+      "body": "actually stop watching it",
+      "publishedAt": "this hour nexy year"
+    },
+    {
+      "id": "3",
+      "title": "Third",
+      "body": "for real, just stop it",
+      "publishedAt": "4:30"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Hah Jason",
+      "email": "hahjsn@email.com"
+    }
+  ]
+}
